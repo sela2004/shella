@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaisei+Opti:wght@700&family=Montserrat:wght@600;700&family=Splash&display=swap");
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+.logo {
+  width: 200px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Montserrat;
+}
+
+h2 {
+  font-family: Montserrat;
+}
+h3 {
+  font-family: Noto Sans Simplified Chinese;
+}
+
+.navbar {
+  justify-content: space-evenly;
+  border: 5px solid black;
+  height: 60px;
+  align-items: center;
+  background-color: tomato;
+}
+
+.navbar a {
+  margin-left: 60px;
+  margin-right: 150px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+
+.footer {
+  background-color: red;
+  height: 25px;
+}
+
+b {
+  color: white;
+}
+
+.container {
+  background-color: wheat;
+}
